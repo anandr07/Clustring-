@@ -1,2 +1,2 @@
 # Clustring-
-Heirarchical and k-means 
+Heirarchical and k-means (Using R)
